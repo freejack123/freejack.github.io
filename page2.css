@@ -1,0 +1,13 @@
+
+
+ body { background-color: green; }
+p { color: black; }
+ h1 {
+    color:black;
+    font-family:verdana;
+    font-size:300%;
+}
+p {
+    border:1px solid black;
+    padding:10px;
+}
